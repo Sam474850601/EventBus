@@ -7,12 +7,6 @@
 
 
 
-##  最新地址
-
->  implementation 'com.to8to.app.component:component-teventbus:1.0.3'
-
-
-
 ## 调试模式开关
 
 > 这个开关很==重要==，涉及到cpu计算性能损耗，**如果发版请关掉**
