@@ -297,18 +297,6 @@ public class TestActivity extends Activity {
 ```
 
 
-## 事件命名规范
-
-> T + 名字 + Event组合，如
-
-```java 
-
-public class TMessageEvent{
-
-}
-
-
-```
 
 ## 注意事项
 
